@@ -41,7 +41,7 @@
     "@types/minimatch": "^5.1.2",
     "@types/uuid": "^9.0.2",
     "@types/vscode": "^1.80.0",
-    "esbuild": "^0.18.19",
+    "esbuild": "^0.25.0",
     "parse-git-diff": "^0.0.14",
     "pkg": "^5.8.1",
     "rimraf": "^5.0.5"
